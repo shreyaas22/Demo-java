@@ -13,6 +13,6 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         resp.setContentType("text/html");
-        resp.getWriter().println("<h1>Hello, Elastic Beanstalk!</h1>");
+        resp.getWriter().println("<h1>Hello, deployed from CI CD</h1>");
     }
 }
