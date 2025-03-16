@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xml:lang="en">
+<html>
 <head>
     <title>Elastic Beanstalk App</title>
 </head>
